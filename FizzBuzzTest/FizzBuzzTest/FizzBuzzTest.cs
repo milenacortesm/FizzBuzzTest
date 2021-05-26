@@ -43,7 +43,7 @@ namespace FizzBuzzTest
         [Theory]
         [InlineData(6)]
         [InlineData(9)]
-        [InlineData(12)]       
+        [InlineData(12)]
         [InlineData(21)]
         [InlineData(27)]
         public void ReturnsFizzWhenNumbersAreDivBy3(int input)
@@ -81,6 +81,15 @@ namespace FizzBuzzTest
         {
             var output = FizzBuzzImplement.GetValue(input);
             Assert.Equal(result, output);
+        }
+
+        [Theory]
+        [InlineData(-5)]
+        [InlineData(105)]
+        public void WhenRangeExcedesMax(int input)
+        {
+            FizzBuzzImplement.GetConsoleValue(input.ToString());
+            Assert.NotInRange(input, 1, 100);
         }
     }
 }

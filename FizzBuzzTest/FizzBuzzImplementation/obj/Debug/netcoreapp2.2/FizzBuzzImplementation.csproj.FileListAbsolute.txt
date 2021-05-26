@@ -6,4 +6,3 @@ C:\Users\Milena\source\repos\FizzBuzzTest\FizzBuzzImplementation\obj\Debug\netco
 C:\Users\Milena\source\repos\FizzBuzzTest\FizzBuzzImplementation\obj\Debug\netcoreapp2.2\FizzBuzzImplementation.AssemblyInfo.cs
 C:\Users\Milena\source\repos\FizzBuzzTest\FizzBuzzImplementation\obj\Debug\netcoreapp2.2\FizzBuzzImplementation.dll
 C:\Users\Milena\source\repos\FizzBuzzTest\FizzBuzzImplementation\obj\Debug\netcoreapp2.2\FizzBuzzImplementation.pdb
-C:\Users\Milena\source\repos\FizzBuzzTest\FizzBuzzImplementation\obj\Debug\netcoreapp2.2\FizzBuzzImplementation.csprojAssemblyReference.cache

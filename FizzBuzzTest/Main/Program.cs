@@ -1,8 +1,12 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace FizzBuzzImplementation
+namespace Main
 {
-    public static class FizzBuzzImplement
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -14,7 +18,6 @@ namespace FizzBuzzImplementation
                 GetConsoleValue(Console.ReadLine());
             }
         }
-
 
         public static void GetConsoleValue(string inputValue)
         {
@@ -31,6 +34,7 @@ namespace FizzBuzzImplementation
                 Console.WriteLine("\n");
             }
         }
+
 
         public static int RunSequence(int number)
         {
@@ -51,4 +55,5 @@ namespace FizzBuzzImplementation
             return text.Length == 0 ? input.ToString() : text;
         }
     }
+
 }

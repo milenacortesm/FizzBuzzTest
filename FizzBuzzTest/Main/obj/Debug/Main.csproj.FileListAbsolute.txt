@@ -1,0 +1,7 @@
+C:\Users\Milena\source\repos\FizzBuzzTest\Main\bin\Debug\Main.exe.config
+C:\Users\Milena\source\repos\FizzBuzzTest\Main\bin\Debug\Main.exe
+C:\Users\Milena\source\repos\FizzBuzzTest\Main\bin\Debug\Main.pdb
+C:\Users\Milena\source\repos\FizzBuzzTest\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\Milena\source\repos\FizzBuzzTest\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\Milena\source\repos\FizzBuzzTest\Main\obj\Debug\Main.exe
+C:\Users\Milena\source\repos\FizzBuzzTest\Main\obj\Debug\Main.pdb
